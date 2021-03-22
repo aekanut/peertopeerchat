@@ -1,4 +1,4 @@
-# Simple peer to perr chat
+# Simple peer to peer chat
 
 1. pip install twisted
 2. go to path of peer to peer chat
